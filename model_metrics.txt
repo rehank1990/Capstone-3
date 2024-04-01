@@ -1,0 +1,7 @@
+Linear Regression
+Mean Squared Error (Snowflake): 2.1918924879563647e-24
+Mean Squared Error (SQL): 9.36553683857179e-24
+
+Random Forest
+Mean Squared Error (Snowflake): 11.069648899604346
+Mean Squared Error (SQL): 19.641633735726653
